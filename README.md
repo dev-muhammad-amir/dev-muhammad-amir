@@ -51,7 +51,7 @@ A passionate Web Developer currently learning at Aptech and working on exciting 
 ---
 
 ### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/amir-irfan-1569b631a/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:amirirfan4599@gmail.com)
 
 ---

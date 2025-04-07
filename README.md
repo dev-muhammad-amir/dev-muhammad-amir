@@ -16,7 +16,7 @@ A passionate Web Developer currently learning at Aptech and working on exciting 
 ---
 
 ### 🎼 Work Experience:
-- **Freelance Web Developer (Jan 2024 – Present)**  
+- **Freelance Web Developer (JMar 2023 – Present)**  
   - Developed multiple web applications using **PHP, MySQL, and Bootstrap**.  
   - Built and deployed personal projects like **Gift Plaza Website, Vaccination System, and Hotel Booking System**.  
   - Worked on **custom CMS, e-commerce platforms, and database-driven applications**.

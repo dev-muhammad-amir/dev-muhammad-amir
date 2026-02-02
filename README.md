@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me  
-I am a **Software Developer** with hands-on experience in **web and mobile application development**.  
+I am a **Web Developer** with hands-on experience in **web and mobile application development**.  
 I recently completed a **3-month internship as a Laravel Developer at Choice Tech AI**, where I worked on real-world backend systems, APIs, and database-driven applications.  
 
 I specialize in converting ideas and designs into **functional, scalable applications**, working across **PHP, Laravel, and modern frontend frameworks**. Alongside web development, I also build **cross-platform mobile apps using Flutter & Dart**.  
@@ -97,34 +97,6 @@ With over **2+ years of learning, practice, and project-based experience**, I’
 
 </p>
 
-
----
-
-### 🛠️ Tech Stack & Tools  
-
-**Frontend:**  
-HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax  
-
-**Backend:**  
-PHP, Laravel, CodeIgniter, Node.js  
-
-**Frameworks & Libraries:**  
-Angular, NuxtJS, Vue.js, VueX, Redux  
-
-**Mobile Development:**  
-Flutter, Dart  
-
-**Databases:**  
-MySQL, MongoDB  
-
-**CMS & Platforms:**  
-WordPress, Joomla  
-
-**Desktop / Backend:**  
-C# .NET  
-
-**DevOps & Tools:**  
-GitHub, GitLab, Bitbucket, Postman  
 
 ---
 

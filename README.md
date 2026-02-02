@@ -7,13 +7,16 @@
 ---
 
 ### 🧠 About Me  
-I am a **Laravel Developer** with hands-on experience gained through a **3-month internship at Choice Tech AI**, where I worked on real-world backend systems and database-driven applications.  
+I am a **Software Developer** with hands-on experience in **web and mobile application development**.  
+I recently completed a **3-month internship as a Laravel Developer at Choice Tech AI**, where I worked on real-world backend systems, APIs, and database-driven applications.  
 
-I specialize in **PHP & Laravel development**, API integration, backend logic building, and database management. Alongside backend work, I also develop **mobile applications using Flutter & Dart**.  
+I specialize in converting ideas and designs into **functional, scalable applications**, working across **PHP, Laravel, and modern frontend frameworks**. Alongside web development, I also build **cross-platform mobile apps using Flutter & Dart**.  
 
-I enjoy solving complex problems, fixing errors, and turning ideas into functional digital products. I am continuously learning and improving my skills to become a well-rounded **Full-Stack & Mobile App Developer**.  
+I have experience working with **REST APIs**, testing them using **Postman**, managing databases, and building custom modules for real-world use cases.  
 
-🎓 I have a strong foundation in software development concepts, databases, and application architecture.  
+With over **2+ years of learning, practice, and project-based experience**, I’ve worked with a wide range of technologies and tools while continuously improving my problem-solving and debugging skills.  
+
+📖 I am always eager to **learn new technologies**, improve code quality, and grow as a professional developer.  
 
 📞 WhatsApp: **+92 315 0087505**  
 📧 Email: **amirirfan4599@gmail.com**
@@ -24,11 +27,17 @@ I enjoy solving complex problems, fixing errors, and turning ideas into function
 
 **🚀 Laravel Developer Intern — Choice Tech AI**  
 *3 Months Internship*  
-- Developed backend features using **Laravel & PHP**  
+- Developed backend features using **PHP & Laravel**  
 - Worked with **MySQL databases** and complex queries  
-- Built and tested **REST APIs**  
-- Fixed bugs, optimized code & improved application performance  
+- Built and tested **RESTful APIs** using **Postman**  
+- Fixed bugs, optimized performance & improved application logic  
 - Gained real-world experience working on production-level projects  
+
+**🧩 Freelance / Practice-Based Developer Experience**  
+- Built multiple **web & mobile applications** for learning and portfolio purposes  
+- Developed **CMS, Admin Panels, and Database-driven systems**  
+- Worked with frontend frameworks and responsive UI development  
+- Used **GitHub** for version control and project management  
 
 ---
 
@@ -44,20 +53,30 @@ I enjoy solving complex problems, fixing errors, and turning ideas into function
 ---
 
 ### 🛠️ Tech Stack & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" />
-</p>
+
+**Frontend:**  
+HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax  
+
+**Backend:**  
+PHP, Laravel, CodeIgniter, Node.js  
+
+**Frameworks & Libraries:**  
+Angular, NuxtJS, Vue.js, VueX, Redux  
+
+**Mobile Development:**  
+Flutter, Dart  
+
+**Databases:**  
+MySQL, MongoDB  
+
+**CMS & Platforms:**  
+WordPress, Joomla  
+
+**Desktop / Backend:**  
+C# .NET  
+
+**DevOps & Tools:**  
+GitHub, GitLab, Bitbucket, Postman  
 
 ---
 
@@ -73,11 +92,11 @@ I enjoy solving complex problems, fixing errors, and turning ideas into function
 ---
 
 ### 🎯 Goals  
-- Become a strong **Laravel & Flutter Developer**  
+- Master **Laravel, Angular, React, Flutter**, and **AWS**  
 - Build scalable, secure & real-world applications  
 - Grow as a **Full-Stack & Mobile App Developer**  
 - Contribute to **open-source projects**
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile — let’s build something amazing together!**
+⭐ **Thanks for visiting my GitHub profile — let’s build something powerful together!**

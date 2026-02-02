@@ -1,59 +1,45 @@
 <h1 align="center">👋 Hi, I'm Muhammad Amir</h1>
 
 <p align="center">
-💻 Software Developer at <b>DevFamz</b> | Passionate about building scalable and interactive web applications.
+💻 Laravel Developer Intern at <b>Choice Tech AI</b> | Passionate about building scalable web & mobile applications.
 </p>
 
 ---
 
 ### 🧠 About Me  
-As a **Software Developer at DevFamz**, I build and improve web applications using **Laravel, Angular, and AWS**.  
-I specialize in converting **Figma designs** into responsive, interactive front-ends, developing APIs, testing them via **Postman**, and creating custom modules such as **Real-Time Chat Systems** and **Ticketing Management Systems**.  
+I am a **Laravel Developer** with hands-on experience gained through a **3-month internship at Choice Tech AI**, where I worked on real-world backend systems and database-driven applications.  
 
-I collaborate with a talented team of engineers who share a passion for delivering **high-quality, client-focused solutions** that exceed expectations.  
+I specialize in **PHP & Laravel development**, API integration, backend logic building, and database management. Alongside backend work, I also develop **mobile applications using Flutter & Dart**.  
 
-With **2+ years of experience** in web development, I have worked with multiple tools and technologies including:  
-**PHP, Laravel, CodeIgniter, WordPress, Joomla, NodeJS, MongoDB, jQuery, Ajax, Bootstrap, NuxtJS, VueX, Redux, GitHub, Bitbucket, and GitLab.**  
+I enjoy solving complex problems, fixing errors, and turning ideas into functional digital products. I am continuously learning and improving my skills to become a well-rounded **Full-Stack & Mobile App Developer**.  
 
-I have successfully developed **CMS, CRM**, and **Admin Panel** solutions for both startups and multinational companies.  
+🎓 I have a strong foundation in software development concepts, databases, and application architecture.  
 
-🎓 I hold a **Bachelor’s in Computer Software Engineering** from the **University of Gujrat**, where I built a strong foundation in:  
-- Software Verification & Validation  
-- Web Application Development  
-- Software Requirement Specification  
-- Agile Software Engineering  
-
-📖 I am always eager to **learn new technologies** and **expand my expertise**.  
-
-📞 Reach me on WhatsApp: **+92 315 0087505**  
-📧 Or contact me via email: **amirirfan4599@gmail.com**
+📞 WhatsApp: **+92 315 0087505**  
+📧 Email: **amirirfan4599@gmail.com**
 
 ---
 
 ### 💼 Professional Experience  
 
-**🚀 Software Developer — DevFamz**  
-*Oct 2024 – Present*  
-- Building and improving modern web applications using **Laravel, Angular, and AWS**  
-- Developing custom modules (e.g., Real-Time Chat & Ticketing Systems)  
-- Creating and testing REST APIs using **Postman**  
-- Collaborating with cross-functional teams to ensure project success  
-
-**🧩 Freelance Web Developer**  
-*Jan 2023 – Oct 2024*  
-- Delivered full-stack web applications for global clients  
-- Developed **CMS, E-commerce, and Database-driven** projects  
-- Built responsive UIs with **Bootstrap, React, and Vue**  
-- Managed version control with **GitHub, GitLab, and Bitbucket**  
+**🚀 Laravel Developer Intern — Choice Tech AI**  
+*3 Months Internship*  
+- Developed backend features using **Laravel & PHP**  
+- Worked with **MySQL databases** and complex queries  
+- Built and tested **REST APIs**  
+- Fixed bugs, optimized code & improved application performance  
+- Gained real-world experience working on production-level projects  
 
 ---
 
-### 🌟 Featured Projects  
-- 💉 **Vaccination System** — End-to-end management system with DB integration  
-- 🎁 **Gift Plaza Website** — E-commerce platform built with PHP & MySQL  
-- 🏨 **Hotel Booking System** — Responsive booking system with live validation  
+### 🚀 Projects  
+- 🎬 **PHP:** Movie Booking System  
+- 🏫 **Laravel:** School Management System  
+- 🎓 **C# .NET:** HelpDesk (University Level Project)  
+- 📱 **Flutter / Dart:** Watch Hub – E-Commerce Mobile Application  
 
-🔗 **Explore all projects:** [GitHub Repositories →](https://github.com/dev-muhammad-amir)
+🔗 **Explore my projects:**  
+👉 https://github.com/dev-muhammad-amir
 
 ---
 
@@ -67,11 +53,8 @@ I have successfully developed **CMS, CRM**, and **Admin Panel** solutions for bo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" />
 </p>
@@ -85,15 +68,16 @@ I have successfully developed **CMS, CRM**, and **Admin Panel** solutions for bo
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amir-1569b631a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirirfan4599@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirirfan4599@gmail.com)
 
 ---
 
 ### 🎯 Goals  
-- Master **Laravel, Angular, React**, and **AWS**  
-- Deliver high-quality, scalable, and secure web applications  
-- Contribute to **open-source projects** and build impactful software  
+- Become a strong **Laravel & Flutter Developer**  
+- Build scalable, secure & real-world applications  
+- Grow as a **Full-Stack & Mobile App Developer**  
+- Contribute to **open-source projects**
 
 ---
 
-⭐ **Thanks for visiting my profile! Let’s connect and build something great together.**
+⭐ **Thanks for visiting my GitHub profile — let’s build something amazing together!**
